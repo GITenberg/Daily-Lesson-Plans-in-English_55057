@@ -1,11 +1,16 @@
 _repo: Daily-Lesson-Plans-in-English_55057
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55057-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffin, Caroline
     gutenberg_agent_id: '48173'
     url: http://www.gutenberg.org/2009/agents/48173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55057#Daily-Lesson-Plans-in-English
 gutenberg_issued: '2017-07-06'
 gutenberg_type: Text
 identifiers:
